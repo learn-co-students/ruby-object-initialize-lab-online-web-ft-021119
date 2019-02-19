@@ -4,5 +4,9 @@ class Dog
     @breed = breed
     breed_default
     end
+    
+  def breed_default
+    puts "Mutt"
+  end
   end
 end
