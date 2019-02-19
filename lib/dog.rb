@@ -8,5 +8,5 @@ class Dog
   def breed_default
     puts "Mutt"
   end
-  end
+
 end
